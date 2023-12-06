@@ -1,0 +1,4 @@
+The exercises lists can be found in [[https://wiki.python.org.br/ListaDeExercicios]].
+
+- Lists
+  - [[file:estrutura-sequencial.org][Sequencial Structure]]
